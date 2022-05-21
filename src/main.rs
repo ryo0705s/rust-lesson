@@ -1,8 +1,7 @@
-mod sub_a
 mod verse;
 
 fn main() {
-    println!("Hello, world!");
+    // println!("Hello, world!");
     verse::run();
-    varse::sub_a::func_a();
+    // verse::sub_a::func_a();
 }
